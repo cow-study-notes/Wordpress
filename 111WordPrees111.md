@@ -129,8 +129,8 @@ a:45:{i:0;s:11:"OPT_STRIP_T";i:1;s:16:"OPT_MUST_CONTENT";i:2;s:20:"OPT_FEED_CONV
 ### 清除一下页面缓存 (找不到就搜索：Actions)
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/4abc0ae8-f817-4d64-8677-09f3a245583d)
 
-# 设置完了（访问网站检测有没有遗漏，再看看Wordpress配置有没有遗漏）
-## 设置完了（访问网站检测有没有遗漏，再看看Wordpress配置有没有遗漏）
+##### 设置完了（访问网站检测有没有遗漏，再看看Wordpress配置有没有遗漏）
+#### 设置完了（访问网站检测有没有遗漏，再看看Wordpress配置有没有遗漏）
 ### 设置完了（访问网站检测有没有遗漏，再看看Wordpress配置有没有遗漏）
-#### 设置完了（访问网站检测有没有遗漏，再看看Wordpress配置有没有遗漏）
-#### 设置完了（访问网站检测有没有遗漏，再看看Wordpress配置有没有遗漏）
+## 设置完了（访问网站检测有没有遗漏，再看看Wordpress配置有没有遗漏）
+# 设置完了（访问网站检测有没有遗漏，再看看Wordpress配置有没有遗漏）
