@@ -80,7 +80,14 @@
 <!-- /Yandex.Metrika counter -->
 ```
 
-### 5.Yoast SEO
+### 5. 设置
+        常规（配置网站标题）
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/5bd826c0-ec16-416d-a63c-aaf82f28e8b4)
+
+        关闭底部Privacy Policy-隐私政策分类目录
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/0cf95750-da94-4303-bf1c-3b02beeb3bef)
+
+### 6.Yoast SEO
             设置
                 内容类型
                         首页
@@ -91,7 +98,7 @@
                 启动开始收集SEO数据
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/c39012f6-1a0e-4330-8424-a1b0a0458c3d)
 
-### 6.Automatic
+### 7.Automatic
         New campaign (这里先一个一个创建你的分类，创建完成，我们去改数据库，直接导入预设好的配置)     
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/9027d2d2-4022-477a-b897-cf50d4483b2e)
 ### 数据库主要改
