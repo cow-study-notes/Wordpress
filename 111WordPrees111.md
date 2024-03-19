@@ -1,4 +1,39 @@
 # WordPrees新闻站流程
+## 在创建后台账号密码的时候使用自动生成的随机密码[密码记录到表格]
+## 如果是搭建完成的，修改用户名密码[密码记录到表格]
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/2b420bc3-0dbc-4023-9288-21b9dbedbcea)
+### 启动安全插件Wordfence
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/bb5e7382-3e9f-400c-8229-040b37d50b9e)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/546e6eb0-9996-4fc1-9b94-67a84268021d)
+### 账号
+```exte
+ztony6688@gmail.com
+```
+### 密钥
+```exte
+e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a46528cb73849d85d
+```
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/943971db-2c31-4397-a7f9-ae75a7f8a44a)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/a4382a59-6ac9-4148-90a5-8be224fa60b0)
+
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/18cb801b-05ba-4475-a9e0-42135aed4f09)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/b3c8720a-05d5-4bc0-8156-8f9e817e6309)
+
+### 这里注意看扫描出来的文件 有没有网站底部我们修改的底部文件如果有就忽略.
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/650e4452-6065-4d03-b8d9-f2bfd71896ef)
+
+### 导入配置
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/ca047f80-d519-4ff3-b038-59c61b100bf2)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/b1a0558a-19e6-467e-acc9-28a5913ca418)
+### 配置令牌
+```exte
+6234e2f2b30ebc8c4a896490d52f75798bad2525ee4cfd7515633617533f76d0ababab4fb459e7c16ea80a64b6ae782489eec54adcf9e79adfe6e3e905f506e4
+```
+### 检查是否导入成功
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/567265f4-b385-4ea9-a675-b613e71a741c)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/d96cc565-0dc1-4186-8ffa-8f4109119144)
+
+
 ## 一、域名+服务器
 ### 1. 查看域名属性、含义，使用IA生成标题、简介、ico图片（记得翻译看看）
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/af7a1d0d-fd34-4424-a798-2831b7173005)
