@@ -47,6 +47,7 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 ### 检查是否导入成功
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/567265f4-b385-4ea9-a675-b613e71a741c)
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/d96cc565-0dc1-4186-8ffa-8f4109119144)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/eebc1a88-f7db-47f5-854f-16c6008dd75a)
 
 
 ## 一、域名+服务器
