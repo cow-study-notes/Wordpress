@@ -19,7 +19,7 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/18cb801b-05ba-4475-a9e0-42135aed4f09)
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/b3c8720a-05d5-4bc0-8156-8f9e817e6309)
 
-### 这里注意看扫描出来的文件 有没有网站底部我们修改的底部文件如果有就忽略.
+### 这里注意看扫描出来的文件有没有网站底部footer.php文件，如果有就忽略，我们改的底部footer.php文件他会判断为威胁，文件被修改过
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/650e4452-6065-4d03-b8d9-f2bfd71896ef)
 
 ### 导入配置
