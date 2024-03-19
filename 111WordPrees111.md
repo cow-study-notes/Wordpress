@@ -24,11 +24,26 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 
 ### 导入配置
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/ca047f80-d519-4ff3-b038-59c61b100bf2)
-![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/b1a0558a-19e6-467e-acc9-28a5913ca418)
 ### 配置令牌
 ```exte
 6234e2f2b30ebc8c4a896490d52f75798bad2525ee4cfd7515633617533f76d0ababab4fb459e7c16ea80a64b6ae782489eec54adcf9e79adfe6e3e905f506e4
 ```
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/b1a0558a-19e6-467e-acc9-28a5913ca418)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/04f25103-221e-4d98-9ee9-9aa6aa586bf4)
+
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/cdbbf765-1048-4265-b131-9d34706ed30e)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/002a7aa6-222d-4995-84a3-c5f43c045e29)
+
+
+
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/bc4bbc2f-e40a-4e44-9953-db568b54450c)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/2ba04117-a8b4-4b1b-84be-11875e1bde01)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/6bf93101-c916-427c-8ad2-c1d2a705eafa)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/bea5ea70-9b59-4bb3-b209-1931ad3ca332)
+![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/a7b92b5a-fab5-4b0c-ba13-ae90fe450392)
+
+
+
 ### 检查是否导入成功
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/567265f4-b385-4ea9-a675-b613e71a741c)
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/d96cc565-0dc1-4186-8ffa-8f4109119144)
