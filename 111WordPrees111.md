@@ -3,6 +3,8 @@
 ## 如果是搭建完成的，修改用户名密码[密码记录到表格]
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/2b420bc3-0dbc-4023-9288-21b9dbedbcea)
 ### Automatic账号密码
+    ztony6688
+    ry%anyha
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/f791f57f-d4bc-4e43-a3ce-c83fa9869e47)
 
 ### 启动安全插件Wordfence
