@@ -2,13 +2,9 @@
 ## 在创建后台账号密码的时候使用自动生成的随机密码[密码记录到表格]
 ## 如果是搭建完成的，修改用户名密码[密码记录到表格]
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/2b420bc3-0dbc-4023-9288-21b9dbedbcea)
-### Automatic账号
-    ztony6688
-### Automatic密码
-    ry%anyha
-![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/f791f57f-d4bc-4e43-a3ce-c83fa9869e47)
 
-### 启动安全插件Wordfence
+### 启动所有插件（优先设置安全插件：Wordfence）
+![1711284353939](https://github.com/cow-study-notes/Wordpress/assets/105910804/cb0e8d44-25be-48bb-b3ff-28c2a13283f4)
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/bb5e7382-3e9f-400c-8229-040b37d50b9e)
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/546e6eb0-9996-4fc1-9b94-67a84268021d)
 ### 账号
@@ -156,6 +152,12 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 
 ### 7.Automatic
         New campaign (这里先一个一个创建你的分类，创建完成，我们去改数据库，直接导入预设好的配置)     
+### Automatic账号
+    ztony6688
+### Automatic密码
+    ry%anyha
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/f791f57f-d4bc-4e43-a3ce-c83fa9869e47)
+
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/9027d2d2-4022-477a-b897-cf50d4483b2e)
 ### 数据库主要改
                     camp_post_title
