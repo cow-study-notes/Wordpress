@@ -58,7 +58,6 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/eebc1a88-f7db-47f5-854f-16c6008dd75a)
 
 
-## 域名+服务器
 ### 查看域名属性、含义，使用IA生成标题、简介、ico图片（记得翻译看看）
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/af7a1d0d-fd34-4424-a798-2831b7173005)
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/5d5d4d08-19d9-4f47-a6b5-dd2c77588081)
@@ -75,6 +74,9 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/83324e7d-2e8a-4cdb-9d05-25d41e064a9b)
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/eb5a5a8d-82f4-489f-8705-65c392142518)
 
+### 设置
+        关闭底部Privacy Policy-隐私政策分类目录
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/0cf95750-da94-4303-bf1c-3b02beeb3bef)
 
 ### 创建/修改，分类目录（一般3个左右，有分类的话就快速编辑修改）（如没有含义，则自己定义）
         文章
@@ -125,9 +127,6 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 <!-- /Yandex.Metrika counter -->
 ```
 
-### 设置
-        关闭底部Privacy Policy-隐私政策分类目录
-![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/0cf95750-da94-4303-bf1c-3b02beeb3bef)
 
 ### Yoast SEO
             设置
@@ -140,7 +139,7 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
                 启动开始收集SEO数据
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/c39012f6-1a0e-4330-8424-a1b0a0458c3d)
 
-### 7.Automatic
+### Automatic
         New campaign (这里先一个一个创建你的分类，创建完成，我们去改数据库，直接导入预设好的配置)     
 ### Automatic账号
     ztony6688
@@ -164,10 +163,10 @@ a:45:{i:0;s:11:"OPT_STRIP_T";i:1;s:16:"OPT_MUST_CONTENT";i:2;s:20:"OPT_FEED_CONV
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/e82b39b6-8eba-480a-914e-1151bf809ba9)
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/d1f9544d-a03e-4e49-9584-79453edd95a9)
 
-### 正则替换掉文章里的youtube链接
+### 正则替换掉文章里的youtube链接（搜索：Search and replace (REGEX enabled) ( pattern1|pattern2)）
         规则：
                 https:\/\/www\.youtube\.com\/[^?]+\?v=([a-zA-Z0-9_-]{11})|
-![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/9f486797-b51c-4a09-b9db-04142c92765d)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/91983edd-2676-4d98-84f8-35479ce7793a)
 
 ### 选择你文章要发到的对应分类目录 (找不到就搜索：Post posts to this category)
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/f649e314-3552-413b-80a8-6801a12838b6)
@@ -184,6 +183,7 @@ a:45:{i:0;s:11:"OPT_STRIP_T";i:1;s:16:"OPT_MUST_CONTENT";i:2;s:20:"OPT_FEED_CONV
 ### 清除一下页面缓存 (找不到就搜索：Actions)
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/4abc0ae8-f817-4d64-8677-09f3a245583d)
 
+### YARPP(调用文章显示插件)
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/d98079ab-00af-469b-92d0-e9b84f892231)
 
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/fab0479d-018b-495c-88a9-80f39fb4b5a0)
