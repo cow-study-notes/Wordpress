@@ -97,7 +97,10 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/ea823baf-bfe2-4bf3-beba-4eb67b4d1ea9)
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/bc25c366-8d09-4669-b442-8a7f8673c0d0)
 
- 
+### 清空所有原始文章（跟着步骤走，继续）
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/d8e4988a-eaf5-49c2-87a0-5e69f53fd3b4)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/3b994a1b-1435-4f4b-8928-89063d72c42a)
+
 ### 工具
         禁用评论
             勾选 任何地方 在整个网站上全局禁用评论（保存）
