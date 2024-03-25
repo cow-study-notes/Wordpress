@@ -1,7 +1,13 @@
 # WordPrees-JNews新闻站流程
 ## 在创建后台账号密码的时候使用自动生成的随机密码[密码记录到表格]
-## 如果是搭建完成的，修改用户名密码[密码记录到表格]
-![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/2b420bc3-0dbc-4023-9288-21b9dbedbcea)
+## 新建用户（用户名和密码要记录下来）
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/c3f8a84a-a06b-4606-bb75-cd8397448741)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/e96ad58a-2a28-4348-a751-f93bc6d869d7)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/29c8a10f-f480-4615-b53e-dbda0b11295c)
+
+### 启动JNews主题，选择主题，访问网站看下你就知道了
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/480d21fd-afb6-4389-9837-face868b8c51)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/14f2b75f-f901-4154-9c50-a6dacaa5aaa3)
 
 ### 启动所有插件（优先设置安全插件：Wordfence）
 ![1711284353939](https://github.com/cow-study-notes/Wordpress/assets/105910804/cb0e8d44-25be-48bb-b3ff-28c2a13283f4)
@@ -55,6 +61,9 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 ### 1. 查看域名属性、含义，使用IA生成标题、简介、ico图片（记得翻译看看）
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/af7a1d0d-fd34-4424-a798-2831b7173005)
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/5d5d4d08-19d9-4f47-a6b5-dd2c77588081)
+
+### JNews基础设置（标题、简介、logo、ico、一些小布局设置）
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/3ddbb020-62be-4c33-9e62-ccb05cf4f034)
 
 ### 2. 按照域名含义创建分类目录。（如没有含义，则自己定义）
     例如：
