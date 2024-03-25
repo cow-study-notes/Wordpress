@@ -58,17 +58,25 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/eebc1a88-f7db-47f5-854f-16c6008dd75a)
 
 
-## 一、域名+服务器
+## 域名+服务器
 ### 查看域名属性、含义，使用IA生成标题、简介、ico图片（记得翻译看看）
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/af7a1d0d-fd34-4424-a798-2831b7173005)
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/5d5d4d08-19d9-4f47-a6b5-dd2c77588081)
 
-### JNews基础设置（标题、简介、logo、ico、一些小布局设置）
+## JNews基础设置（标题、简介、logo、ico、一些小布局设置）
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/3ddbb020-62be-4c33-9e62-ccb05cf4f034)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/1acc5716-8e60-4fc9-9a8b-a0b5fceaf8b0)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/f2ca9add-9640-4996-87e6-bc805090d3cb)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/f205ddfd-526a-4791-b4c6-7bdbde4ad8e3)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/3670ef0e-ef96-42cb-849b-035ca5ac5dce)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/9734b517-1143-4a1c-8dc4-067774e936cc)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/1a395ce7-eafe-4506-b1ac-1e0939227419)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/b994dde3-5b1b-47cf-b5e7-fb103bbd0603)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/83324e7d-2e8a-4cdb-9d05-25d41e064a9b)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/eb5a5a8d-82f4-489f-8705-65c392142518)
 
 
-## 二、WordPress后台设置
-### 1. 创建/修改，分类目录（一般3个左右，有分类的话就快速编辑修改）（如没有含义，则自己定义）
+### 创建/修改，分类目录（一般3个左右，有分类的话就快速编辑修改）（如没有含义，则自己定义）
         文章
             分类目录
                 名称（分类目录名称）
@@ -81,6 +89,11 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
             旅游 Travel
             政治 Political
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/cb37f1e2-7266-4b19-97ca-cbba43e9a0fc)
+
+### 菜单设置（看图吧）
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/29d634c7-6655-4fb4-9e0f-c4afee6f8e6d)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/ea823baf-bfe2-4bf3-beba-4eb67b4d1ea9)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/bc25c366-8d09-4669-b442-8a7f8673c0d0)
 
  
 ### 工具
@@ -112,14 +125,11 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 <!-- /Yandex.Metrika counter -->
 ```
 
-### 5. 设置
-        常规（配置网站标题）
-![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/5bd826c0-ec16-416d-a63c-aaf82f28e8b4)
-
+### 设置
         关闭底部Privacy Policy-隐私政策分类目录
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/0cf95750-da94-4303-bf1c-3b02beeb3bef)
 
-### 6.Yoast SEO
+### Yoast SEO
             设置
                 内容类型
                         首页
@@ -149,8 +159,15 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 a:45:{i:0;s:11:"OPT_STRIP_T";i:1;s:16:"OPT_MUST_CONTENT";i:2;s:20:"OPT_FEED_CONVERT_ENC";i:3;s:17:"OPT_FEED_ENCODING";i:4;s:15:"OPT_FEED_SCRIPT";i:5;s:30:"OPT_FEED_LAZY_NOSCRIPT_DISABLE";i:6;s:12:"OPT_CJ_CACHE";i:7;s:12:"OPT_AE_CACHE";i:8;s:12:"OPT_CL_CACHE";i:9;s:12:"OPT_WM_CACHE";i:10;s:12:"OPT_PL_CACHE";i:11;s:12:"OPT_RD_CACHE";i:12;s:21:"OPT_RD_OFFICIAL_EMBED";i:13;s:12:"OPT_IU_CACHE";i:14;s:12:"OPT_EV_CACHE";i:15;s:21:"OPT_GENERATE_FB_TITLE";i:16;s:12:"OPT_FB_CACHE";i:17;s:14:"OPT_AM_GALLERY";i:18;s:12:"OPT_VM_CACHE";i:19;s:16:"OPT_GP_REMOVE_H1";i:20;s:12:"OPT_SC_CACHE";i:21;s:12:"OPT_PT_CACHE";i:22;s:17:"OPT_PT_AUTO_TITLE";i:23;s:12:"OPT_IT_CACHE";i:24;s:17:"OPT_IT_AUTO_TITLE";i:25;s:16:"OPT_TW_VID_EMBED";i:26;s:9:"OPT_TW_RT";i:27;s:9:"OPT_TW_RE";i:28;s:12:"OPT_DM_CACHE";i:29;s:12:"OPT_YT_CACHE";i:30;s:12:"OPT_EB_CACHE";i:31;s:12:"OPT_FL_CACHE";i:32;s:18:"OPT_CB_DESCRIPTION";i:33;s:18:"OPT_OPENAI_PENDING";i:34;s:9:"OPT_THUMB";i:35;s:14:"OPT_THUMB_ALT2";i:36;s:14:"OPT_THUMB_ALT3";i:37;s:16:"OPT_FEEDS_OG_IMG";i:38;s:9:"OPT_CACHE";i:39;s:15:"OPT_CACHE_CLEAN";i:40;s:7:"OPT_TBS";i:41;s:11:"OPT_TBS_TTL";i:42;s:9:"OPT_STRIP";i:43;s:16:"OPT_STRIP_INLINE";i:44;s:13:"OPT_LINK_ONCE";}
 
 ### 删除HTML标记 (找不到就搜索：删除HTML标记)
+        加这段开进去：
+                <br><img><p><b><span><strong><h1><h2><h3><h4><h5><h6><figure><table><tbody><tr><td><ul><li><section><details><ol><em><figcaption>
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/e82b39b6-8eba-480a-914e-1151bf809ba9)
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/d1f9544d-a03e-4e49-9584-79453edd95a9)
+
+### 正则替换掉文章里的youtube链接
+        规则：
+                https:\/\/www\.youtube\.com\/[^?]+\?v=([a-zA-Z0-9_-]{11})|
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/9f486797-b51c-4a09-b9db-04142c92765d)
 
 ### 选择你文章要发到的对应分类目录 (找不到就搜索：Post posts to this category)
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/f649e314-3552-413b-80a8-6801a12838b6)
