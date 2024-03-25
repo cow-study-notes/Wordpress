@@ -1,4 +1,4 @@
-# WordPrees新闻站流程
+# WordPrees-JNews新闻站流程
 ## 在创建后台账号密码的时候使用自动生成的随机密码[密码记录到表格]
 ## 如果是搭建完成的，修改用户名密码[密码记录到表格]
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/2b420bc3-0dbc-4023-9288-21b9dbedbcea)
@@ -67,11 +67,13 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 
 ### 3. 解析域名到对应服务器，登录服务器配置网站，上传wordpress程序包，登录wordpress后台
 ## 二、WordPress后台设置
-### 1. 创建分类目录（一般3个左右）
+### 1. 创建/修改，分类目录（一般3个左右，有分类的话就快速编辑修改）
         文章
             分类目录
                 名称（分类目录名称）
                 别名（url格式，大写换小写） 
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/cb37f1e2-7266-4b19-97ca-cbba43e9a0fc)
+
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/636a5aeb-6844-43cd-8e83-cd3a066eb634)
 
 
