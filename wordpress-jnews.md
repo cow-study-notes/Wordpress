@@ -1,4 +1,5 @@
 # WordPrees-JNews新闻站流程
+## 解析域名到对应服务器，登录服务器配置网站，上传wordpress程序包，登录wordpress后台
 ## 在创建后台账号密码的时候使用自动生成的随机密码[密码记录到表格]
 ## 新建用户（用户名和密码要记录下来）
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/c3f8a84a-a06b-4606-bb75-cd8397448741)
@@ -58,63 +59,31 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
 
 
 ## 一、域名+服务器
-### 1. 查看域名属性、含义，使用IA生成标题、简介、ico图片（记得翻译看看）
+### 查看域名属性、含义，使用IA生成标题、简介、ico图片（记得翻译看看）
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/af7a1d0d-fd34-4424-a798-2831b7173005)
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/5d5d4d08-19d9-4f47-a6b5-dd2c77588081)
 
 ### JNews基础设置（标题、简介、logo、ico、一些小布局设置）
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/3ddbb020-62be-4c33-9e62-ccb05cf4f034)
 
-### 2. 按照域名含义创建分类目录。（如没有含义，则自己定义）
-    例如：
+
+## 二、WordPress后台设置
+### 1. 创建/修改，分类目录（一般3个左右，有分类的话就快速编辑修改）（如没有含义，则自己定义）
+        文章
+            分类目录
+                名称（分类目录名称）
+                别名（url格式，大写换小写） 
+        例如：
             历史 History
             财经 Finance
             商业 Business
             娱乐 Entertainment
             旅游 Travel
             政治 Political
-
-### 3. 解析域名到对应服务器，登录服务器配置网站，上传wordpress程序包，登录wordpress后台
-## 二、WordPress后台设置
-### 1. 创建/修改，分类目录（一般3个左右，有分类的话就快速编辑修改）
-        文章
-            分类目录
-                名称（分类目录名称）
-                别名（url格式，大写换小写） 
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/cb37f1e2-7266-4b19-97ca-cbba43e9a0fc)
 
-![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/636a5aeb-6844-43cd-8e83-cd3a066eb634)
-
-
-### 2. 主题
-        外观
-            主题（选择试用的主题，换着用）
-![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/0c4bd293-20d0-44b9-bd31-041e1149fd85)
-
-            自定义（设置ico图片）
-![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/1b6edfd9-dba6-482c-ad0b-5547eee89500)
-
-![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/7ee139db-5552-44c3-9d16-c561aaa98176)
-
-            菜单（添加分类目录到网站显示，记得排序）
-                查看所有
-                    分类目录
-                        查看所有（勾选你创建的分类，添加到菜单）
-                            菜单设置
-                                勾选 自动将新的顶级页面添加至菜单
-                                勾选 Main Menu
-                                        保存保存保存
-![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/758883bb-3e7f-4345-81f2-49c1ade0a156)
-
-
-
-### 3. 插件
-        上传插件，并查看上传的插件是否启动，没有的话。手动点击启动
-![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/e7ee351c-72f0-4e6e-ad3e-d3688fd39380)
-
-    
-        
-### 4. 工具
+ 
+### 工具
         禁用评论
             勾选 任何地方 在整个网站上全局禁用评论（保存）
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/971b5497-d3c3-415b-8e79-07872007575c)
