@@ -10,6 +10,11 @@
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/480d21fd-afb6-4389-9837-face868b8c51)
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/14f2b75f-f901-4154-9c50-a6dacaa5aaa3)
 
+### JNews自带一个编辑插件，可以用下(先从主题主设置配置，找不到再用这个吧，全部用这个不知道后期会不会有啥问题)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/ed321c4d-bf9f-4b14-8db7-fd7a0e4cc207)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/a7cd5e33-5650-4ae8-be59-9dcd090151e5)
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/aa074a36-87f8-4d40-94e2-4e809f09c1cd)
+
 ### 启动所有插件（优先设置安全插件：Wordfence）
 ![1711284353939](https://github.com/cow-study-notes/Wordpress/assets/105910804/cb0e8d44-25be-48bb-b3ff-28c2a13283f4)
 ![image](https://github.com/cow-study-notes/Wordpress/assets/100024933/bb5e7382-3e9f-400c-8229-040b37d50b9e)
