@@ -85,6 +85,9 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
         关闭底部Privacy Policy-隐私政策分类目录
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/0cf95750-da94-4303-bf1c-3b02beeb3bef)
 
+### 文章URL格式选这个
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/2ed67b66-02bf-4a8b-9837-e2cd335c95f1)
+
 ### Privacy Policy    Terms Of Use把这些显示到文章去，可以换换样式
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/4414b997-c8cd-4eb1-b899-1b4380ccc4f3)
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/fc9669f0-984f-4a0e-bb4d-3ea062dbd312)
