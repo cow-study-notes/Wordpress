@@ -173,8 +173,7 @@ e5e643273546b0d4cb70c9099836e3cb8ead0a1d53c2d82f7d4807df7a20c9e6654928e7cda8191a
                             [matched_content]
                     camp_options
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/10fc7641-9cf3-4f71-b515-3a083459d126)
-a:47:{i:0;s:16:"OPT_ROTATE_FEEDS";i:1;s:11:"OPT_STRIP_T";i:2;s:16:"OPT_MUST_CONTENT";i:3;s:20:"OPT_FEED_CONVERT_ENC";i:4;s:17:"OPT_FEED_ENCODING";i:5;s:15:"OPT_FEED_SCRIPT";i:6;s:30:"OPT_FEED_LAZY_NOSCRIPT_DISABLE";i:7;s:12:"OPT_CJ_CACHE";i:8;s:12:"OPT_AE_CACHE";i:9;s:12:"OPT_CL_CACHE";i:10;s:12:"OPT_WM_CACHE";i:11;s:12:"OPT_PL_CACHE";i:12;s:12:"OPT_RD_CACHE";i:13;s:21:"OPT_RD_OFFICIAL_EMBED";i:14;s:12:"OPT_IU_CACHE";i:15;s:12:"OPT_EV_CACHE";i:16;s:21:"OPT_GENERATE_FB_TITLE";i:17;s:12:"OPT_FB_CACHE";i:18;s:14:"OPT_AM_GALLERY";i:19;s:12:"OPT_VM_CACHE";i:20;s:16:"OPT_GP_REMOVE_H1";i:21;s:12:"OPT_SC_CACHE";i:22;s:12:"OPT_PT_CACHE";i:23;s:17:"OPT_PT_AUTO_TITLE";i:24;s:12:"OPT_IT_CACHE";i:25;s:17:"OPT_IT_AUTO_TITLE";i:26;s:16:"OPT_TW_VID_EMBED";i:27;s:9:"OPT_TW_RT";i:28;s:9:"OPT_TW_RE";i:29;s:12:"OPT_DM_CACHE";i:30;s:12:"OPT_YT_CACHE";i:31;s:12:"OPT_EB_CACHE";i:32;s:12:"OPT_FL_CACHE";i:33;s:18:"OPT_CB_DESCRIPTION";i:34;s:18:"OPT_OPENAI_PENDING";i:35;s:9:"OPT_THUMB";i:36;s:14:"OPT_THUMB_ALT2";i:37;s:14:"OPT_THUMB_ALT3";i:38;s:16:"OPT_FEEDS_OG_IMG";i:39;s:9:"OPT_CACHE";i:40;s:15:"OPT_CACHE_CLEAN";i:41;s:7:"OPT_TBS";i:42;s:11:"OPT_TBS_TTL";i:43;s:15:"OPT_RGX_REPLACE";i:44;s:9:"OPT_STRIP";i:45;s:16:"OPT_STRIP_INLINE";i:46;s:13:"OPT_LINK_ONCE";}
-
+a:50:{i:0;s:16:"OPT_ROTATE_FEEDS";i:1;s:11:"OPT_STRIP_T";i:2;s:17:"OPT_ORIGINAL_META";i:3;s:16:"OPT_MUST_CONTENT";i:4;s:14:"OPT_MUST_IMAGE";i:5;s:20:"OPT_FEED_CONVERT_ENC";i:6;s:17:"OPT_FEED_ENCODING";i:7;s:15:"OPT_FEED_SCRIPT";i:8;s:30:"OPT_FEED_LAZY_NOSCRIPT_DISABLE";i:9;s:12:"OPT_CJ_CACHE";i:10;s:12:"OPT_AE_CACHE";i:11;s:12:"OPT_CL_CACHE";i:12;s:12:"OPT_WM_CACHE";i:13;s:12:"OPT_PL_CACHE";i:14;s:12:"OPT_RD_CACHE";i:15;s:21:"OPT_RD_OFFICIAL_EMBED";i:16;s:12:"OPT_IU_CACHE";i:17;s:12:"OPT_EV_CACHE";i:18;s:21:"OPT_GENERATE_FB_TITLE";i:19;s:12:"OPT_FB_CACHE";i:20;s:14:"OPT_AM_GALLERY";i:21;s:12:"OPT_VM_CACHE";i:22;s:16:"OPT_GP_REMOVE_H1";i:23;s:12:"OPT_SC_CACHE";i:24;s:12:"OPT_PT_CACHE";i:25;s:17:"OPT_PT_AUTO_TITLE";i:26;s:12:"OPT_IT_CACHE";i:27;s:17:"OPT_IT_AUTO_TITLE";i:28;s:16:"OPT_TW_VID_EMBED";i:29;s:9:"OPT_TW_RT";i:30;s:9:"OPT_TW_RE";i:31;s:12:"OPT_DM_CACHE";i:32;s:12:"OPT_YT_CACHE";i:33;s:12:"OPT_EB_CACHE";i:34;s:12:"OPT_FL_CACHE";i:35;s:18:"OPT_CB_DESCRIPTION";i:36;s:18:"OPT_OPENAI_PENDING";i:37;s:9:"OPT_THUMB";i:38;s:14:"OPT_THUMB_ALT2";i:39;s:14:"OPT_THUMB_ALT3";i:40;s:16:"OPT_FEEDS_OG_IMG";i:41;s:9:"OPT_CACHE";i:42;s:15:"OPT_CACHE_CLEAN";i:43;s:7:"OPT_TBS";i:44;s:11:"OPT_TBS_TTL";i:45;s:15:"OPT_RGX_REPLACE";i:46;s:9:"OPT_STRIP";i:47;s:13:"OPT_STRIP_EXT";i:48;s:16:"OPT_STRIP_INLINE";i:49;s:13:"OPT_LINK_ONCE";}
 ### 内容提取方法  Content extraction method
 ![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/21e93dfb-d506-4bc7-9b4f-88ae29e116ac)
 
@@ -183,6 +182,12 @@ a:47:{i:0;s:16:"OPT_ROTATE_FEEDS";i:1;s:11:"OPT_STRIP_T";i:2;s:16:"OPT_MUST_CONT
                 <br><img><p><b><span><strong><h1><h2><h3><h4><h5><h6><figure><table><tbody><tr><td><ul><li><section><details><ol><em><figcaption>
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/e82b39b6-8eba-480a-914e-1151bf809ba9)
 ![image](https://github.com/cow-study-notes/Wordpress-/assets/105910804/d1f9544d-a03e-4e49-9584-79453edd95a9)
+
+### 打开这个就可以应用对方网站的tag
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/e69e19cb-2388-4a35-9c40-e2bffbac994e)
+
+### 保留外部链接
+![image](https://github.com/cow-study-notes/Wordpress/assets/105910804/cf9b348d-7181-49e7-b5cc-e3516727dbfd)
 
 ### 正则替换掉文章里的youtube链接（搜索：Search and replace (REGEX enabled) ( pattern1|pattern2)）
         规则：
